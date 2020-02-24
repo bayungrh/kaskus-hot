@@ -7,6 +7,11 @@
     "test": "ava"
   },
   "author": "MuhBayu",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhBayu/kaskus-hot"
+  },
+  "homepage": "https://github.com/MuhBayu/kaskus-hot#kaskus-hot",
   "license": "MIT",
   "engines": {
     "node": ">=8"
